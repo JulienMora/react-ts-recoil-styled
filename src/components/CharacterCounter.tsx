@@ -1,5 +1,5 @@
 import React from "react";
-import { View } from "./styled";
+import { View } from "../styled";
 import { useRecoilValue } from "recoil";
 import { charCountState } from "../selectors/CharCountState";
 import TextInput from "./TextInput";

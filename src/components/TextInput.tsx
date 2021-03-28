@@ -1,5 +1,5 @@
 import React from "react";
-import { View } from "./styled";
+import { View } from "../styled";
 import { useRecoilState } from "recoil";
 import { textState } from "../atoms/TextState";
 

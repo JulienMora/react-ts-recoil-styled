@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Title } from "../src/components/styled";
+import { View, Title } from "./styled";
 import CharacterCounter from "./components/CharacterCounter";
 
 const App = () => {
