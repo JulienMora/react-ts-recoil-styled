@@ -7,7 +7,6 @@ const Title = styled.h1`
 `;
 
 const View = styled.div`
-  border: 2px solid red;
   margin-left: 50px;
   margin-right: 50px;
 `;
